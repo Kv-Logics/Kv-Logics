@@ -339,7 +339,5 @@ Spring Boot  ·  Spring AI  ·  AWS Bedrock  ·  Microservices  ·  Cloud-Native
 <br/>
 
 ⭐ *Explore the repos. Star what you find useful. Let's build together.*
-
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=00D4AA&label=Profile%20Views&query=%24.value&url=https://api.countapi.xyz/hit/keerthivasan-readme-views/500&style=flat-square)
-
+ 
 </div>
