@@ -205,6 +205,21 @@ Production biometric face attendance & real-time campus geofencing platform for 
 </td>
 <td width="50%">
 
+### [Campus Nexus](https://github.com/Kv-Logics/Campus-Nexus)
+
+Enterprise High-Throughput Concurrent File Distribution Engine & Zero-VPN Campus Intranet Mesh Relay Gateway. Features parallel 1-to-10 FTP/FTPS fan-out delivery with cryptographic SHA-256 integrity, WebSocket reverse tunneling for remote firewall bypass, and an on-demand AWS EC2 cost controller.
+
+**Stack:** Java 21 · Spring Boot 3 · MongoDB Atlas · WebSocket Reverse Tunneling · Docker · AWS EC2
+
+[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [Herald](https://github.com/Kv-Logics/Herald)
 
 Enterprise-grade multi-channel notification engine powering Klarixa AI's GxP compliance SaaS platform. Features 4-tier Redis priority queues, sliding-window rate limiting, circuit breaker fault tolerance, and Jinja2 templating.
@@ -216,8 +231,6 @@ Enterprise-grade multi-channel notification engine powering Klarixa AI's GxP com
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/Kv-Logics/Herald)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [Spring AI Enterprise Engine](https://github.com/Kv-Logics)
@@ -229,36 +242,6 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 [![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics)
 [![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics)
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://github.com/Kv-Logics)
-
-</td>
-<td width="50%">
-
-### [LeetCode Progress Tracker](https://github.com/Kv-Logics/leetcode-tracker)
-
-Production-grade technical interview companion. Automates problem tracking, auto-fetches problem titles & difficulties by ID, visualizes company-wise progress (Meta, Google, Amazon), and manages solution notes.
-
-**Stack:** Next.js 15 · TypeScript · Supabase · PostgreSQL · Tailwind CSS
-
-[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/Kv-Logics/leetcode-tracker)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Kv-Logics/leetcode-tracker)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/Kv-Logics/leetcode-tracker)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" width="100%">
-
-### [Campus Nexus](https://github.com/Kv-Logics/Campus-Nexus)
-
-Enterprise High-Throughput Concurrent File Distribution Engine & Zero-VPN Campus Intranet Mesh Relay Gateway. Features parallel 1-to-10 FTP/FTPS fan-out delivery with SHA-256 cryptographic integrity, WebSocket reverse tunneling for remote firewall bypass, and an on-demand AWS EC2 cost controller.
-
-**Stack:** Java 21 · Spring Boot 3 · MongoDB Atlas · WebSocket Reverse Tunneling · Docker · AWS EC2
-
-[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
-[![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
-[![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
 
 </td>
 </tr>
