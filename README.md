@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%" valign="top">
 
 ## `$ whoami`
 
@@ -54,10 +54,8 @@ open_to:
 ```
 
 </td>
-<td width="40%" align="center" valign="center">
-
-<img src="pixel_banner_rotated.gif" width="300" alt="Aesthetic Pixel Banner" />
-
+<td width="35%" align="center" valign="middle">
+<img src="pixel_banner_rotated.gif" width="100%" alt="Aesthetic Pixel Banner" />
 </td>
 </tr>
 </table>
