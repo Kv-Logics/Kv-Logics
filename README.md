@@ -205,9 +205,9 @@ Voice-first agentic civic automation for rural India via Amazon Connect IVR & We
 
 **Stack:** AWS Bedrock · Kendra (RAG) · AWS Lambda · Connect · Next.js 16 · Python
 
-[![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
-[![Amazon Kendra](https://img.shields.io/badge/Kendra_RAG-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
-[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
+[![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
+[![Amazon Kendra](https://img.shields.io/badge/Kendra_RAG-2563EB?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-E11D48?style=flat-square&logo=awslambda&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
 
 </td>
 <td width="50%">
@@ -331,13 +331,7 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 ## `> activity --game`
 
-<div align="center">
-
-![Pac-Man Contribution Graph](./assets/pacman-contribution-graph-dark.svg)
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvasan&theme=dark&background=0D1117&fire=00D4AA&ring=00D4AA&currStreakLabel=00D4AA&hide_border=true" alt="GitHub Streak" />
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Kv-Logics/readme-test/main/assets/pacman-contribution-graph-dark.svg)
 
 </div>
 
