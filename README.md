@@ -330,14 +330,6 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 ---
 
-## `> activity --game`
-
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Kv-Logics/readme-test/main/assets/pacman-contribution-graph-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ## `> contact --connect`
