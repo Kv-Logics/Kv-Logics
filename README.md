@@ -166,13 +166,13 @@ open_to:
 
 ### 🇮🇳 [JanSathi-V2](https://github.com/Kv-Logics/JanSathi-V2)
 
-Telecom-native voice-first agentic civic automation for rural India via Amazon Connect IVR & Web Phone Emulator. Evaluates scheme eligibility deterministically with zero LLM hallucination and dispatches instant BenefitReceipts & SMS summaries.
+Voice-first agentic civic automation for rural India via Amazon Connect IVR & Web Phone Emulator. Uses **Amazon Kendra Smart RAG** for document retrieval, **AWS Lambda** webhooks, **AWS Bedrock** (Claude 3.5), and a deterministic rules engine.
 
-**Stack:** Next.js 16 · Python/Flask · AWS Bedrock · Kendra · Connect
+**Stack:** AWS Bedrock · Kendra (RAG) · AWS Lambda · Connect · Next.js 16 · Python
 
-[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
-[![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
+[![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
+[![Amazon Kendra](https://img.shields.io/badge/Kendra_RAG-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
 
 </td>
 <td width="50%">
@@ -194,26 +194,26 @@ Enterprise-grade multi-channel notification engine powering Klarixa AI's GxP com
 
 ### 🏭 [ZenOps (ForgeOps)](https://github.com/Kv-Logics/ZenOps)
 
-MCP (Model Context Protocol) powered agentic AI platform for real-time manufacturing root-cause analysis. Synchronizes MES and IoT sensor anomalies across factory timelines into evidence-backed corrective action plans.
+MCP-powered agentic AI platform for real-time manufacturing root-cause analysis. Orchestrates 4 specialized AI agents with **Model Context Protocol (MCP)** and **Nitrostack** to convert fragmented MES/sensor data into evidence-backed corrective actions.
 
-**Stack:** MCP Protocol · Python · Gemini · Nitrostack · Next.js
+**Stack:** Model Context Protocol (MCP) · Nitrostack · Gemini · Python · FastAPI · React
 
-[![MCP](https://img.shields.io/badge/MCP_Protocol-0A66FF?style=flat-square&logo=react&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
-[![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
+[![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-0A66FF?style=flat-square&logo=react&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
+[![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
 
 </td>
 <td width="50%">
 
-### ⚡ Spring AI Enterprise Platform
+### 🎓 [Campus Nexus](https://github.com/Kv-Logics/Campus-Nexus)
 
-Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVector. Orchestrates LLMs (GPT-4o, Claude, Llama), high-throughput RAG search, and real-time Kafka event streaming.
+High-throughput concurrent file distribution engine & zero-VPN campus intranet mesh relay gateway. Features parallel 1-to-10 FTP/FTPS fan-out delivery with SHA-256 integrity, WebSocket reverse tunneling, and AWS EC2 cost controller.
 
-**Stack:** Spring Boot · Spring AI · AWS Bedrock · PGVector · Kafka
+**Stack:** Java 21 · Spring Boot 3 · MongoDB · WebSocket · Docker · AWS EC2
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics)
-[![Spring](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics)
-[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://github.com/Kv-Logics)
+[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
 
 </td>
 </tr>
