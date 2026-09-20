@@ -57,7 +57,6 @@ open_to:
   - AI + Backend Integration Positions
   - Cloud Engineering (AWS · Cloud-Native · DevOps-adjacent)
 
-fun_fact: "I debug in my dreams. Literally."
 ```
 
 ---
