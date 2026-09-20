@@ -303,11 +303,11 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kvasan/)
-[![LeetCode Tracker Repo](https://img.shields.io/badge/Custom_Tracker_Repo-leetcode--tracker-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Kv-Logics/leetcode-tracker)
+[![Built By Me](https://img.shields.io/badge/Built_By_Me-LeetCode_Tracker_Engine-00D4AA?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://github.com/Kv-Logics/leetcode-tracker)
 
 <br/>
 
-> 💡 **Custom Interview Prep Engine**: Built [**LeetCode Progress Tracker**](https://github.com/Kv-Logics/leetcode-tracker) to eliminate data entry friction during interview preparation. Features auto-fetching problem metadata by ID, company-wise DSA sheet tracking (Google, Meta, Amazon), and Supabase persistence.
+> 🚀 **My Custom Engineering Project**: Engineered [**LeetCode Progress Tracker**](https://github.com/Kv-Logics/leetcode-tracker) — a full-stack interview prep engine that automates problem metadata fetching via GraphQL, manages company-wise DSA sheets (Google, Meta, Amazon), and persists user progress with Next.js 14 & Supabase.
 
 </div>
 
