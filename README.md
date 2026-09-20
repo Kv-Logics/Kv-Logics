@@ -134,7 +134,7 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 
 ```
 [2025] ✦  AI Engineer Intern @ Infosys         — Enterprise AI in production
-[2025] ✦  Research Internship @ NIT Trichy      — Cutting-edge applied research
+[2025] ✦  DevOps Lead @ NIT Trichy           — RHEL server infrastructure & deployment
 [2025] ✦  150+ DSA Problems on LeetCode         — Profile: Kvasan · Active competitor
 [2024] ✦  IoT + AI Integrated Systems           — Real-world applied AI
 [2024] ✦  Codefest Competitor                   — Competitive programming circuit
@@ -193,7 +193,7 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 * 🔐 feat: OAuth2 + JWT + Cognito + IAM + WAF secured APIs
 * 🗄️ feat: multi-db architecture — Postgres, MongoDB, DynamoDB, S3
 * 🏆 chore: AI Engineer Intern @ Infosys
-* 🎓 chore: Research Intern @ NIT Trichy
+* 🎓 chore: DevOps Lead @ NIT Trichy (RHEL Server Infra)
 * 🌱 init: Computer & Communication Engineering @ Amrita Vishwa Vidyapeetham
 ```
 
