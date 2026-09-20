@@ -313,18 +313,19 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 <br/>
 
 [![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-161b22?style=flat-square&logo=spring&logoColor=6DB33F)](https://github.com/Kv-Logics)
-[![Enterprise AI Engineering](https://img.shields.io/badge/Enterprise_AI_Engineering-161b22?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://github.com/Kv-Logics)
-[![SDE](https://img.shields.io/badge/SDE-161b22?style=flat-square&logo=google&logoColor=4285F4)](https://github.com/Kv-Logics)
-[![Cloud Engineering](https://img.shields.io/badge/Cloud_Engineering-161b22?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
+[![Enterprise AI Engineering](https://img.shields.io/badge/Enterprise_AI_Engineering-161b22?style=flat-square&logo=openai&logoColor=412991)](https://github.com/Kv-Logics)
+[![Software Development Engineer](https://img.shields.io/badge/SDE-161b22?style=flat-square&logo=google&logoColor=4285F4)](https://github.com/Kv-Logics)
+[![Cloud Native Engineering](https://img.shields.io/badge/Cloud_Native_Engineering-161b22?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
 
 <br/>
 
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Kv-Logics)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/Kv-Logics)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://github.com/Kv-Logics)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/Kv-Logics)
-[![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics)
-[![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/Kv-Logics)
-[![Microservices](https://img.shields.io/badge/Microservices-2088FF?style=flat-square&logo=docker&logoColor=white)](https://github.com/Kv-Logics)
-[![Cloud--Native](https://img.shields.io/badge/Cloud--Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Kv-Logics)
+[![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Kv-Logics)
 
 <br/><br/>
 
