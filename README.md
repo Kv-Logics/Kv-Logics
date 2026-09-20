@@ -65,38 +65,39 @@ fun_fact: "I prefer solving problems from scratch rather than looking at solutio
 ## `$ ls -la tech-stack/`
 
 <details open>
-<summary><b>🧠 Enterprise AI & LLMs</b></summary>
+<summary><b>⚙️ Backend & Distributed Systems</b></summary>
 <br/>
 
-| Area | Technologies |
-|---|---|
-| **AI Frameworks** | Spring AI · RAG Pipelines · Agentic AI · LangChain |
-| **LLM Models** | GPT-4o · Claude 3.x · Llama 3 · Mistral · Gemini Pro · Amazon Titan |
-| **AWS AI Services** | Amazon Bedrock · Amazon Kendra · Amazon Transcribe · Amazon Polly · Amazon Translate |
-| **Vector & Search** | PGVector · FAISS · Semantic Search · Embedding Pipelines |
-| **Patterns** | RAG · Tool-use Agents · Memory · Multi-step Reasoning · Prompt Engineering |
-| **ML / DL / Vision** | Computer Vision · CNN · YOLO · Image Processing · OpenCV · TensorFlow · PyTorch |
-| **Other** | IoT + AI Integration |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Systems Architecture</b></summary>
+<summary><b>🧠 Enterprise AI, LLMs & Vector Search</b></summary>
 <br/>
 
-| Technology | Scope & Utilization |
-|---|---|
-| **Spring Boot** | Enterprise Microservices, REST APIs, Production Backends |
-| **Spring Core / DI** | Dependency Injection, AOP, Enterprise Architecture Patterns |
-| **Spring AI** | AI-Powered Backend Services, LLM & RAG Integration |
-| **Apache Kafka** | Event Streaming, Async Messaging, Distributed Data Pipelines |
-| **Node.js** | Event-driven Services, Lightweight APIs |
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </details>
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ```
 Java        ████████████████████░   Primary — Spring ecosystem, backend systems
@@ -108,84 +109,49 @@ Rust        ████████░░░░░░░░░░░░░   Sy
 </details>
 
 <details open>
-<summary><b>☁️ AWS & Cloud-Native Infrastructure</b></summary>
+<summary><b>☁️ AWS Cloud & DevOps Infrastructure</b></summary>
 <br/>
 
-**Compute, Containers & Orchestration**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Enterprise AI & ML Services**
-
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Kendra](https://img.shields.io/badge/Amazon_Kendra-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Transcribe](https://img.shields.io/badge/Amazon_Transcribe-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Polly](https://img.shields.io/badge/Amazon_Polly-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Translate](https://img.shields.io/badge/Amazon_Translate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Data, Storage & Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-
-**Networking, Observability & Security**
-
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🔐 Security & Authentication</b></summary>
+<summary><b>🗄️ Databases & Security</b></summary>
 <br/>
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-4A90E2?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🌐 Frontend & Web Technologies (Supporting Stack)</b></summary>
+<summary><b>🌐 Frontend Stack & Core CS</b></summary>
 <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🧮 Core Computer Science Fundamentals</b></summary>
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 - **Data Structures & Algorithms** — 150+ problems solved on LeetCode ([Kvasan](https://leetcode.com/u/Kvasan)) · Active competitor
-- **Object-Oriented Design** — Design Patterns, SOLID Principles, Clean Architecture
-- **Distributed Systems** — CAP Theorem, Consistency Models, Event-Driven Architecture
-- **System Design** — Scalable Microservices Patterns, Caching, High Availability
-- **Message Streaming** — Apache Kafka, Event Sourcing, CQRS
+- **Distributed Systems & System Design** — CAP Theorem, Microservices Patterns, CQRS, Event Sourcing
 
 </details>
 
