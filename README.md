@@ -46,7 +46,7 @@ currently_building:
   - Agentic AI pipelines for real-world automation
 
 interests:
-  - Backend Engineering (Spring Boot · Microservices · Kafka)
+  - Backend Engineering (Spring Boot · Go · Microservices · Kafka)
   - Enterprise AI Integration (Spring AI · LLMs · RAG · Bedrock)
   - Cloud-Native Systems (K8s · AWS · Azure)
   - Competitive Programming
@@ -74,40 +74,38 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 
 <div align="center">
 
-[![Tech Stack Icons](https://skillicons.dev/icons?i=java,py,cpp,rust,spring,kafka,nodejs,express,pytorch,tensorflow,opencv,postgres,mongodb,dynamodb,sqlite,docker,aws,kubernetes,linux,git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
+[![Tech Stack Icons](https://skillicons.dev/icons?i=java,go,py,cpp,rust,spring,kafka,nodejs,express,pytorch,tensorflow,opencv,postgres,mongodb,dynamodb,sqlite,docker,aws,kubernetes,linux,git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
 <details open>
-<summary><b>🧠 Enterprise AI & LLMs</b></summary>
+<summary><b>⚙️ Backend & Distributed Systems</b></summary>
 <br/>
 
-| Area | Technologies |
-|---|---|
-| **AI Frameworks** | Spring AI · RAG Pipelines · Agentic AI · LangChain |
-| **LLM Models** | GPT-4o · Claude 3.x · Llama 3 · Mistral · Gemini Pro · Amazon Titan |
-| **AWS AI Services** | Amazon Bedrock · Amazon Kendra · Amazon Transcribe · Amazon Polly · Amazon Translate |
-| **Vector & Search** | PGVector · FAISS · Semantic Search · Embedding Pipelines |
-| **Patterns** | RAG · Tool-use Agents · Memory · Multi-step Reasoning · Prompt Engineering |
-| **ML / DL** | Machine Learning · Deep Learning · CNN · YOLO · Image Processing · Computer Vision |
-| **DL Frameworks** | TensorFlow · PyTorch · OpenCV |
-| **Other** | IoT + AI Integration |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Frameworks</b></summary>
+<summary><b>🧠 Enterprise AI, LLMs & Vector Search</b></summary>
 <br/>
 
-| Technology | Scope |
-|---|---|
-| **Spring Boot** | Microservices, REST APIs, production backends |
-| **Spring** | Core framework, DI, AOP, enterprise patterns |
-| **Spring AI** | AI-powered backend services, LLM integration |
-| **Apache Kafka** | Event streaming, async messaging, distributed pipelines |
-| **Node.js** | Event-driven APIs, lightweight services |
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </details>
 
@@ -115,73 +113,52 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
 
-```
-Java        ████████████████████░   Primary — Spring ecosystem, backend systems
-Python      ████████████████░░░░░   ML/DL/AI pipelines, scripting, automation
-C++         ████████████░░░░░░░░░   Competitive programming, algorithmic work
-Rust        ████████░░░░░░░░░░░░░   Systems programming, performance-critical code
-```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>☁️ AWS — Full Cloud Stack</b></summary>
+<summary><b>☁️ AWS & Cloud-Native Stack</b></summary>
 <br/>
 
-**Compute & Orchestration**
-
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**AI & ML Services**
-
-![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Kendra](https://img.shields.io/badge/Amazon_Kendra-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Transcribe](https://img.shields.io/badge/Amazon_Transcribe-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Polly](https://img.shields.io/badge/Amazon_Polly-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Translate](https://img.shields.io/badge/Amazon_Translate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Data & Storage**
-
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-
-**Networking & Communication**
-
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Route53](https://img.shields.io/badge/Route_53-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![SNS](https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Pinpoint](https://img.shields.io/badge/Amazon_Pinpoint-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Connect](https://img.shields.io/badge/Amazon_Connect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Security & Management**
-
-![Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Kendra](https://img.shields.io/badge/Amazon_Kendra-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Transcribe](https://img.shields.io/badge/Amazon_Transcribe-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Polly](https://img.shields.io/badge/Amazon_Polly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Translate](https://img.shields.io/badge/Amazon_Translate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>🗄️ Databases & Storage</b></summary>
 <br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![H2](https://img.shields.io/badge/H2_Database-00ADEF?style=flat-square&logo=h2&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -189,37 +166,28 @@ Rust        ████████░░░░░░░░░░░░░   Sy
 <summary><b>🔐 Security & Auth</b></summary>
 <br/>
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-4A90E2?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4A90E2?style=for-the-badge)
 
 </details>
 
 <details>
-<summary><b>🌐 Frontend (Supporting Stack)</b></summary>
+<summary><b>🌐 Frontend & Core CS Fundamentals</b></summary>
 <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🧮 Core CS Fundamentals</b></summary>
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 - **Data Structures & Algorithms** — 150+ problems on LeetCode ([Kvasan](https://leetcode.com/u/Kvasan)) · Active competitor
-- **Object-Oriented Programming** — Design patterns, SOLID principles
-- **Distributed Systems** — CAP theorem, consistency models, event-driven architecture
-- **System Design** — Scalable backend architectures, microservices patterns
-- **Message Streaming** — Apache Kafka, event sourcing, CQRS
+- **Distributed Systems & System Design** — CAP Theorem, Microservices Patterns, Event-Driven Architecture, CQRS
 
 </details>
 
@@ -239,7 +207,7 @@ Rust        ████████░░░░░░░░░░░░░   Sy
 ### 🏗️ Scalable Backend Systems
 > *Cloud-native, production-ready backend architecture*
 
-- Microservices architecture with **Spring Boot** + **Kafka** deployed on **Kubernetes** / **Fargate**
+- Microservices architecture with **Spring Boot** + **Kafka** + **Go** deployed on **Kubernetes** / **Fargate**
 - Serverless pipelines with **AWS Lambda** + **Step Functions** + **API Gateway**
 - Secured APIs with **OAuth 2.0**, **JWT**, **AWS Cognito**, **IAM**, **KMS**, **WAF**, and fine-grained **RBAC**
 - Data layer across **PostgreSQL**, **MongoDB Atlas**, **DynamoDB**, **S3**, with **PGVector** for embeddings
@@ -262,10 +230,10 @@ Rust        ████████░░░░░░░░░░░░░   Sy
 ## `$ cat roadmap/2026.txt`
 
 ```
-[ ] Advanced Spring Boot + Microservices at scale
+[ ] Advanced Spring Boot + Go Microservices at scale
 [ ] Enterprise AI Architecture (Spring AI + Bedrock + production LLM systems)
 [ ] Advanced RAG — multi-modal, agentic retrieval pipelines
-[ ] Cloud-native mastery (Kubernetes + AWS — production certified)
+[ ] Cloud-native mastery (Kubernetes + AWS + RHEL — production certified)
 [ ] Top-tier SDE role — Backend / Enterprise AI Engineering
 [✓] Keep building. Keep shipping. Keep solving.
 ```
@@ -276,7 +244,7 @@ Rust        ████████░░░░░░░░░░░░░   Sy
 
 <div align="center">
 
-![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Arch_Linux%20%2F%20RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Editor](https://img.shields.io/badge/Editor-IntelliJ%20IDEA%20%2F%20VS%20Code-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-Ghostty-444444?style=for-the-badge)
@@ -305,7 +273,7 @@ Rust        ████████░░░░░░░░░░░░░   Sy
 * 🚀 feat: enterprise AI systems with Spring AI + Amazon Bedrock
 * 🧠 feat: RAG pipelines with PGVector + Amazon Kendra
 * 🤖 feat: agentic AI workflows — tool-use, memory, multi-step
-* ⚡ feat: event-driven microservices with Apache Kafka
+* ⚡ feat: event-driven microservices with Apache Kafka & Go
 * ☁️ feat: serverless pipelines — Lambda + Step Functions + API Gateway
 * 🔐 feat: OAuth2 + JWT + Cognito + IAM + WAF secured APIs
 * 🗄️ feat: multi-db architecture — Postgres, MongoDB, DynamoDB, S3
@@ -322,7 +290,7 @@ Rust        ████████░░░░░░░░░░░░░   Sy
 
 ```
 Backend Engineering  ·  Enterprise AI Engineering  ·  SDE  ·  Cloud Engineering
-Spring Boot  ·  Spring AI  ·  AWS Bedrock  ·  Microservices  ·  Cloud-Native
+Spring Boot  ·  Spring AI  ·  AWS Bedrock  ·  Go  ·  Microservices  ·  Cloud-Native
 ```
 
 *If you're building something ambitious at the intersection of AI and backend systems — let's talk.*
