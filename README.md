@@ -15,9 +15,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthi-vasan-a-1480862aa/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kvasan)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthivasan22work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/keerthi-vasan-a-1480862aa/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117)](https://leetcode.com/u/Kvasan)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:keerthivasan22work@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kvasan&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kvasan)
 
 </div>
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Aesthetic Pixel Banner](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="550" alt="Aesthetic Pixel Banner" />
 
 </div>
 
@@ -212,9 +212,9 @@ Spring Boot  ·  Spring AI  ·  AWS Bedrock  ·  Go  ·  Microservices  ·  Clou
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthi-vasan-a-1480862aa/)
-[![Email](https://img.shields.io/badge/Say_Hi-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthivasan22work@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kvasan)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/keerthi-vasan-a-1480862aa/)
+[![Email](https://img.shields.io/badge/Say_Hi-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:keerthivasan22work@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117)](https://leetcode.com/u/Kvasan)
 
 <br/>
 
