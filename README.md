@@ -349,20 +349,20 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 <br/>
 
-[![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-161b22?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://github.com/Kv-Logics)
-[![Enterprise AI Engineering](https://img.shields.io/badge/Enterprise_AI_Engineering-161b22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5OTAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE4Ljc1IDE2Ljc0Yy0yLjQ3IDEuODMtNi4wNyAyLjc4LTkuMTUgMi43OC00LjM0IDAtOC4yNS0xLjU4LTExLjIzLTQuMjItLjIzLS4yLS4wNC0uNDkuMjMtLjMzIDMuMjMgMS44OSA3LjI3IDMuMDMgMTEuNCAzLjAzIDIuNzUgMCA1Ljg2LS42NCA4LjQ0LTEuOTUuMzktLjIuNzIuMjkuMzEuNjl6Ii8+PC9zdmc+)](https://github.com/Kv-Logics)
-[![Software Development Engineer](https://img.shields.io/badge/SDE-161b22?style=for-the-badge&logo=google&logoColor=4285F4)](https://github.com/Kv-Logics)
-[![Cloud Native Engineering](https://img.shields.io/badge/Cloud_Native_Engineering-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
+[![Backend Engineering](https://img.shields.io/badge/Role-Backend_Engineering-1e293b?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://github.com/Kv-Logics)
+[![Enterprise AI Engineering](https://img.shields.io/badge/Role-Enterprise_AI-1e293b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5OTAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE4Ljc1IDE2Ljc0Yy0yLjQ3IDEuODMtNi4wNyAyLjc4LTkuMTUgMi43OC00LjM0IDAtOC4yNS0xLjU4LTExLjIzLTQuMjItLjIzLS4yLS4wNC0uNDkuMjMtLjMzIDMuMjMgMS44OSA3LjI3IDMuMDMgMTEuNCAzLjAzIDIuNzUgMCA1Ljg2LS42NCA4LjQ0LTEuOTUuMzktLjIuNzIuMjkuMzEuNjl6Ii8+PC9zdmc+)](https://github.com/Kv-Logics)
+[![Software Development Engineer](https://img.shields.io/badge/Role-SDE-1e293b?style=for-the-badge&logo=google&logoColor=4285F4)](https://github.com/Kv-Logics)
+[![Cloud Native Engineering](https://img.shields.io/badge/Role-Cloud_Native-1e293b?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
 
 <br/>
 
-[![AWS](https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5OTAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE4Ljc1IDE2Ljc0Yy0yLjQ3IDEuODMtNi4wNyAyLjc4LTkuMTUgMi43OC00LjM0IDAtOC4yNS0xLjU4LTExLjIzLTQuMjItLjIzLS4yLS4wNC0uNDkuMjMtLjMzIDMuMjMgMS44OSA3LjI3IDMuMDMgMTEuNCAzLjAzIDIuNzUgMCA5Ljg2LS42NCA4LjQ0LTEuOTUuMzktLjIuNzIuMjkuMzEuNjl6Ii8+PC9zdmc+)](https://github.com/Kv-Logics)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
-[![Azure](https://img.shields.io/badge/Azure-161b22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA3OEQ0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUuNDgzIDIxLjNoMTMuMDM0bC01LjY0Mi04LjU0N0w1LjQ4MyAyMS4zek0xMy40MzUgMi43TDcuNjk3IDExLjQ0Mmw2Ljk4IDYuOTQ1TDIwLjUxNyAyLjdoLTcuMDgyeiIvPjwvc3ZnPg==)](https://github.com/Kv-Logics)
-[![GCP](https://img.shields.io/badge/GCP-161b22?style=for-the-badge&logo=googlecloud&logoColor=4285F4)](https://github.com/Kv-Logics)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F)](https://github.com/Kv-Logics)
-[![Go](https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=00ADD8)](https://github.com/Kv-Logics)
-[![Microservices](https://img.shields.io/badge/Microservices-161b22?style=for-the-badge&logo=docker&logoColor=2496ED)](https://github.com/Kv-Logics)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xOC43NSAxNi43NGMtMi40NyAxLjgzLTYuMDcgMi43OC05LjE1IDIuNzgtNC4zNCAwLTguMjUtMS41OC0xMS4yMy04LjIyLS4yMy0uMi0uMDQtLjQ5LjIzLS4zMyAzLjIz IDEuODkgNy4yNyAzLjAzIDExLjQgMy4wMyAyLjc5IDAgNS44Ni0uNjQgOC40NC0xLjk1LjM5LS4yLjcyLjI5LjMxLjY5eiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/Kv-Logics)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Kv-Logics)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik01LjQ4MyAyMS4zaDEzLjAzNGwtNS42NDItOC41NDdMNS40ODMgMjEuM3pNMTMuNDM1IDIuN0w3LjY5NyAxMS40NDJsNi45OCA2Ljk0NUwyMC41MTcgMi43aC03LjA4MnoiLz48L3N2Zz4=&logoColor=white)](https://github.com/Kv-Logics)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/Kv-Logics)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/Kv-Logics)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Kv-Logics)
+[![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Kv-Logics)
 
 <br/><br/>
 
