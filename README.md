@@ -96,7 +96,7 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 <tr>
 <td align="center" width="140"><b>☁️ Cloud</b></td>
 <td align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash&theme=dark" alt="Cloud" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,linux,bash&theme=dark" alt="Cloud" /></a>
 <br/>
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
 <img src="https://img.shields.io/badge/Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Fargate" />
@@ -105,8 +105,6 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudFront" />
 <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" alt="Route 53" />
 <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
 </td>
 </tr>
 <tr>
