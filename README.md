@@ -164,56 +164,56 @@ open_to:
 <tr>
 <td width="50%">
 
-### 🤖 Enterprise AI Platform
+### 🇮🇳 [JanSathi-V2](https://github.com/Kv-Logics/JanSathi-V2)
 
-Production-grade AI integrated into Spring Boot microservices. LLM orchestration with GPT-4o, Claude, Llama & Titan. RAG pipelines with PGVector + Amazon Kendra for intelligent document retrieval.
+Telecom-native voice-first agentic civic automation for rural India via Amazon Connect IVR & Web Phone Emulator. Evaluates scheme eligibility deterministically with zero LLM hallucination and dispatches instant BenefitReceipts & SMS summaries.
 
-**Stack:** Spring Boot · Spring AI · AWS Bedrock · PGVector · Kendra
+**Stack:** Next.js 16 · Python/Flask · AWS Bedrock · Kendra · Connect
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://skillicons.dev)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://skillicons.dev)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://skillicons.dev)
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
+[![AWS](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/JanSathi-V2)
 
 </td>
 <td width="50%">
 
-### 🧠 Agentic AI Workflows
+### 🚀 [Herald](https://github.com/Kv-Logics/Herald)
 
-Designed agentic AI pipelines with tool-use, memory, and multi-step reasoning. Voice + text interaction using Amazon Connect, Pinpoint & SNS. Multimodal AI with Transcribe, Polly & Translate.
+Enterprise-grade multi-channel notification engine powering Klarixa AI's GxP compliance SaaS platform. Features 4-tier Redis priority queues, sliding-window rate limiting, circuit breaker fault tolerance, and Jinja2 templating.
 
-**Stack:** Spring AI · LangChain · Bedrock · RAG · Agents
+**Stack:** FastAPI · Python 3.11 · PostgreSQL · Redis · Docker · AWS EC2
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://skillicons.dev)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://skillicons.dev)
-[![Spring](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://skillicons.dev)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Kv-Logics/Herald)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Kv-Logics/Herald)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/Kv-Logics/Herald)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏗️ Scalable Backend Systems
+### 🏭 [ZenOps (ForgeOps)](https://github.com/Kv-Logics/ZenOps)
 
-Microservices with Spring Boot + Kafka + Go on Kubernetes & Fargate. Serverless pipelines via Lambda + Step Functions + API Gateway. Secured with OAuth2, JWT, Cognito, IAM & WAF.
+MCP (Model Context Protocol) powered agentic AI platform for real-time manufacturing root-cause analysis. Synchronizes MES and IoT sensor anomalies across factory timelines into evidence-backed corrective action plans.
 
-**Stack:** Spring Boot · Go · Kafka · K8s · AWS Lambda
+**Stack:** MCP Protocol · Python · Gemini · Nitrostack · Next.js
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://skillicons.dev)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://skillicons.dev)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://skillicons.dev)
+[![MCP](https://img.shields.io/badge/MCP_Protocol-0A66FF?style=flat-square&logo=react&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
 
 </td>
 <td width="50%">
 
-### 🗄️ Multi-DB Architecture
+### ⚡ Spring AI Enterprise Platform
 
-Data layer across PostgreSQL, MongoDB Atlas, DynamoDB & S3 with PGVector for embeddings. Full observability with CloudWatch, CDN with CloudFront & DNS with Route 53.
+Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVector. Orchestrates LLMs (GPT-4o, Claude, Llama), high-throughput RAG search, and real-time Kafka event streaming.
 
-**Stack:** PostgreSQL · MongoDB · DynamoDB · S3 · PGVector
+**Stack:** Spring Boot · Spring AI · AWS Bedrock · PGVector · Kafka
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://skillicons.dev)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://skillicons.dev)
-[![AWS](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)](https://skillicons.dev)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics)
+[![Spring](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://github.com/Kv-Logics)
 
 </td>
 </tr>
