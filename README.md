@@ -129,10 +129,10 @@ open_to:
 <br/><br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,sqlite&theme=dark" alt="Databases" /></a>
 <br/><br/>
-<img src="https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PGVector" />
 <img src="https://img.shields.io/badge/Amazon_Aurora-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Aurora" />
+<img src="https://img.shields.io/badge/Amazon_DynamoDB-FF9900?style=flat-square&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB" />
 <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+<img src="https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PGVector" />
 <img src="https://img.shields.io/badge/H2-0000BB?style=flat-square" alt="H2" />
 
 </td>
