@@ -245,6 +245,23 @@ Production-grade technical interview companion. Automates problem tracking, auto
 
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%">
+
+### [Campus Nexus](https://github.com/Kv-Logics/Campus-Nexus)
+
+Enterprise High-Throughput Concurrent File Distribution Engine & Zero-VPN Campus Intranet Mesh Relay Gateway. Features parallel 1-to-10 FTP/FTPS fan-out delivery with SHA-256 cryptographic integrity, WebSocket reverse tunneling for remote firewall bypass, and an on-demand AWS EC2 cost controller.
+
+**Stack:** Java 21 · Spring Boot 3 · MongoDB Atlas · WebSocket Reverse Tunneling · Docker · AWS EC2
+
+[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+
+</td>
+</tr>
 </table>
 
 ---
