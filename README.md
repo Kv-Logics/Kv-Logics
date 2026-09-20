@@ -42,14 +42,10 @@ engineering_focus:
   - Cloud Infrastructure & Kubernetes (GKE, AWS EC2/Lambda, Docker)
 
 problem_solving:
-  - Advanced DSA & Logical Reasoning (150+ Solved on LeetCode @Kvasan)
+  - Advanced Data Structures & Algorithms (DSA)
+  - 150+ DSA Problems Solved on LeetCode (@Kvasan)
   - Competitive Programming & Algorithmic Circuit
-  - Advanced System Design (CQRS, Event-Driven, CAP & Fault Tolerance)
-
-building_impact:
-  - Custom LeetCode Progress Tracker & Graph RAG Engines
-  - Zero-VPN Campus Intranet Mesh Relay & High-Throughput Gateways
-  - Enterprise GxP Multi-Channel Notification Priority Pipelines
+  - Advanced System Design (CQRS, Event-Driven, CAP)
 
 open_to:
   - High-Impact Backend & SDE Engineering Roles
@@ -61,10 +57,6 @@ open_to:
 <td width="35%" align="center" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="Developer Animation" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Kv-Logics/readme-test/main/pixel_banner_rotated.gif" width="100%" alt="Aesthetic Pixel Banner" />
 
 </td>
 </tr>
