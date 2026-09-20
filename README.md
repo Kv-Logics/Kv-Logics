@@ -145,9 +145,9 @@ open_to:
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth" />
 <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="Cognito" />
-<img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="IAM" />
-<img src="https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="KMS" />
-<img src="https://img.shields.io/badge/WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="WAF" />
+<img src="https://img.shields.io/badge/IAM-2563EB?style=flat-square&logo=amazonaws&logoColor=white" alt="IAM" />
+<img src="https://img.shields.io/badge/KMS-7C3AED?style=flat-square&logo=amazonaws&logoColor=white" alt="KMS" />
+<img src="https://img.shields.io/badge/WAF-059669?style=flat-square&logo=amazonaws&logoColor=white" alt="WAF" />
 <img src="https://img.shields.io/badge/RBAC-4A90E2?style=flat-square" alt="RBAC" />
 
 </td>
