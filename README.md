@@ -60,7 +60,7 @@ open_to:
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Kv-Logics/readme-test/main/pixel_banner_rotated.gif" width="100%" alt="Aesthetic Pixel Banner" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1286a048-0322-4cc7-ab99-97b764268e31.gif" width="100%" alt="Coding Animation" />
 
 </td>
 </tr>
