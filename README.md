@@ -337,10 +337,6 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 <br/>
 
-![Snake Contribution Grid](./assets/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvasan&theme=dark&background=0D1117&fire=00D4AA&ring=00D4AA&currStreakLabel=00D4AA&hide_border=true" alt="GitHub Streak" />
 
 </div>
