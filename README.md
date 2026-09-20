@@ -57,7 +57,7 @@ open_to:
   - AI + Backend Integration Positions
   - Cloud Engineering (AWS · Cloud-Native · DevOps-adjacent)
 
-fun_fact: "I'd rather spend hours building a system from first principles than minutes copying a solution I don't truly understand."
+fun_fact: "First principles > copy-paste. Always."
 ```
 
 ---
