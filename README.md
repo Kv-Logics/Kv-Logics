@@ -19,6 +19,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kvasan)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthivasan22work@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kvasan&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kvasan)
+
 </div>
 
 <br/>
@@ -71,21 +72,156 @@ fun_fact: "I prefer solving problems from scratch rather than looking at solutio
 
 ## `> tech_stack --list`
 
-#### Languages
-[![Languages](https://skillicons.dev/icons?i=java,py,cpp,rust,js,ts&theme=dark)](https://skillicons.dev)
+<div align="center">
 
-#### Frameworks & Runtime
-[![Frameworks](https://skillicons.dev/icons?i=spring,kafka,nodejs,express&theme=dark)](https://skillicons.dev)
+[![Tech Stack Icons](https://skillicons.dev/icons?i=java,py,cpp,rust,spring,kafka,nodejs,express,pytorch,tensorflow,opencv,postgres,mongodb,dynamodb,sqlite,docker,aws,kubernetes,linux,git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
-#### Enterprise AI & ML Stack
-[![AI/ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)  
-`Spring AI` · `RAG Pipelines` · `Agentic AI` · `Amazon Bedrock` · `PGVector` · `LangChain`
+</div>
 
-#### Databases & Storage
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,sqlite&theme=dark)](https://skillicons.dev)
+<br/>
 
-#### DevOps & Tools
-[![DevOps & Tools](https://skillicons.dev/icons?i=docker,aws,kubernetes,linux,bash,git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
+<details open>
+<summary><b>🧠 Enterprise AI & LLMs</b></summary>
+<br/>
+
+| Area | Technologies |
+|---|---|
+| **AI Frameworks** | Spring AI · RAG Pipelines · Agentic AI · LangChain |
+| **LLM Models** | GPT-4o · Claude 3.x · Llama 3 · Mistral · Gemini Pro · Amazon Titan |
+| **AWS AI Services** | Amazon Bedrock · Amazon Kendra · Amazon Transcribe · Amazon Polly · Amazon Translate |
+| **Vector & Search** | PGVector · FAISS · Semantic Search · Embedding Pipelines |
+| **Patterns** | RAG · Tool-use Agents · Memory · Multi-step Reasoning · Prompt Engineering |
+| **ML / DL** | Machine Learning · Deep Learning · CNN · YOLO · Image Processing · Computer Vision |
+| **DL Frameworks** | TensorFlow · PyTorch · OpenCV |
+| **Other** | IoT + AI Integration |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Frameworks</b></summary>
+<br/>
+
+| Technology | Scope |
+|---|---|
+| **Spring Boot** | Microservices, REST APIs, production backends |
+| **Spring** | Core framework, DI, AOP, enterprise patterns |
+| **Spring AI** | AI-powered backend services, LLM integration |
+| **Apache Kafka** | Event streaming, async messaging, distributed pipelines |
+| **Node.js** | Event-driven APIs, lightweight services |
+
+</details>
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
+
+```
+Java        ████████████████████░   Primary — Spring ecosystem, backend systems
+Python      ████████████████░░░░░   ML/DL/AI pipelines, scripting, automation
+C++         ████████████░░░░░░░░░   Competitive programming, algorithmic work
+Rust        ████████░░░░░░░░░░░░░   Systems programming, performance-critical code
+```
+
+</details>
+
+<details open>
+<summary><b>☁️ AWS — Full Cloud Stack</b></summary>
+<br/>
+
+**Compute & Orchestration**
+
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**AI & ML Services**
+
+![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kendra](https://img.shields.io/badge/Amazon_Kendra-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Transcribe](https://img.shields.io/badge/Amazon_Transcribe-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Polly](https://img.shields.io/badge/Amazon_Polly-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Translate](https://img.shields.io/badge/Amazon_Translate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Data & Storage**
+
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+
+**Networking & Communication**
+
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Route53](https://img.shields.io/badge/Route_53-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Pinpoint](https://img.shields.io/badge/Amazon_Pinpoint-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Connect](https://img.shields.io/badge/Amazon_Connect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Security & Management**
+
+![Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-00ADEF?style=flat-square&logo=h2&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔐 Security & Auth</b></summary>
+<br/>
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4A90E2?style=flat-square&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🌐 Frontend (Supporting Stack)</b></summary>
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧮 Core CS Fundamentals</b></summary>
+<br/>
+
+- **Data Structures & Algorithms** — 150+ problems on LeetCode ([Kvasan](https://leetcode.com/u/Kvasan)) · Active competitor
+- **Object-Oriented Programming** — Design patterns, SOLID principles
+- **Distributed Systems** — CAP theorem, consistency models, event-driven architecture
+- **System Design** — Scalable backend architectures, microservices patterns
+- **Message Streaming** — Apache Kafka, event sourcing, CQRS
+
+</details>
 
 ---
 
@@ -95,7 +231,7 @@ fun_fact: "I prefer solving problems from scratch rather than looking at solutio
 > *Production-grade AI integrated into Spring Boot microservices*
 
 - Built enterprise applications powered by **Spring AI** with LLM orchestration (GPT-4o, Claude, Llama, Titan)
-- Implemented **RAG pipelines** with **PGVector** + **Amazon Kendra** for intelligent document retrieval
+- Implemented **RAG pipelines** with PGVector + **Amazon Kendra** for intelligent document retrieval
 - Designed **Agentic AI workflows** with tool-use, memory, and multi-step reasoning
 - Integrated **Amazon Bedrock**, **Transcribe**, **Polly**, **Translate** for multimodal AI features
 - Built voice + text interaction pipelines using **Amazon Connect** + **Pinpoint** + **SNS**
@@ -136,30 +272,7 @@ fun_fact: "I prefer solving problems from scratch rather than looking at solutio
 
 ---
 
-## `> streak_and_activity --show`
-
-<div align="center">
-
-### 🎮 Contribution Streak Game
-
-![Snake Contribution Grid](https://raw.githubusercontent.com/Kvasan/Kvasan/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-### 📊 GitHub & Coding Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kvasan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9" alt="Keerthi Vasan's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvasan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvasan&theme=dark&background=0D1117&fire=00D4AA&ring=00D4AA&currStreakLabel=00D4AA&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🛠️ Work Environment & Setup
+## ⚙️ Environment
 
 <div align="center">
 
@@ -167,6 +280,20 @@ fun_fact: "I prefer solving problems from scratch rather than looking at solutio
 ![Shell](https://img.shields.io/badge/Shell-zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Editor](https://img.shields.io/badge/Editor-IntelliJ%20IDEA%20%2F%20VS%20Code-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-Ghostty-444444?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎮 Contribution Streak & Activity
+
+<div align="center">
+
+![Snake Contribution Grid](https://raw.githubusercontent.com/Kv-Logics/readme-test/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvasan&theme=dark&background=0D1117&fire=00D4AA&ring=00D4AA&currStreakLabel=00D4AA&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
