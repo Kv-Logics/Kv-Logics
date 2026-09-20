@@ -306,9 +306,13 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 ---
 
-## 🎮 Contribution Streak & Activity
+## `> activity --game`
 
 <div align="center">
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Kv-Logics/readme-test/output/pacman-contribution-graph.svg)
+
+<br/>
 
 ![Snake Contribution Grid](./assets/github-contribution-grid-snake-dark.svg)
 
