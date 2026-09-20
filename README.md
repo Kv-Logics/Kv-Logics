@@ -177,7 +177,7 @@ Voice-first agentic civic automation for rural India via Amazon Connect IVR & We
 </td>
 <td width="50%">
 
-### [ZenOps / ForgeOps](https://github.com/Kv-Logics/ZenOps)
+### [ZenOps](https://github.com/Kv-Logics/ZenOps)
 
 MCP-powered agentic AI platform for real-time manufacturing root-cause analysis. Orchestrates 4 specialized AI agents with **Model Context Protocol (MCP)** and **Nitrostack** to convert fragmented MES/sensor data into evidence-backed corrective actions.
 
