@@ -164,7 +164,7 @@ open_to:
 <tr>
 <td width="50%">
 
-### 🇮🇳 [JanSathi-V2](https://github.com/Kv-Logics/JanSathi-V2)
+### [JanSathi-V2](https://github.com/Kv-Logics/JanSathi-V2)
 
 Voice-first agentic civic automation for rural India via Amazon Connect IVR & Web Phone Emulator. Uses **Amazon Kendra Smart RAG** for document retrieval, **AWS Lambda** webhooks, **AWS Bedrock** (Claude 3.5), and a deterministic rules engine.
 
@@ -177,22 +177,7 @@ Voice-first agentic civic automation for rural India via Amazon Connect IVR & We
 </td>
 <td width="50%">
 
-### 🧠 [Hypersphere Engine](https://github.com/Kv-Logics/Hypersphere)
-
-Production biometric face attendance & real-time campus geofencing platform for Amrita Vishwa Vidyapeetham. Features **ArcFace 512-D ONNX embeddings**, **PGVector** similarity search, **MiniFASNetV2** anti-spoofing, and **Ray-Casting PiP geofencing**.
-
-**Stack:** Python · FastAPI · PyTorch/ONNX · PGVector · Next.js 15 · Leaflet.js
-
-[![PyTorch](https://img.shields.io/badge/PyTorch_ONNX-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
-[![PGVector](https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏭 [ZenOps (ForgeOps)](https://github.com/Kv-Logics/ZenOps)
+### [ZenOps / ForgeOps](https://github.com/Kv-Logics/ZenOps)
 
 MCP-powered agentic AI platform for real-time manufacturing root-cause analysis. Orchestrates 4 specialized AI agents with **Model Context Protocol (MCP)** and **Nitrostack** to convert fragmented MES/sensor data into evidence-backed corrective actions.
 
@@ -203,24 +188,24 @@ MCP-powered agentic AI platform for real-time manufacturing root-cause analysis.
 [![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
 
 </td>
-<td width="50%">
-
-### ⚡ Spring AI Enterprise Engine
-
-Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVector. Orchestrates LLMs (GPT-4o, Claude, Llama), high-throughput RAG search, and real-time Kafka event streaming.
-
-**Stack:** Java 21 · Spring Boot 3 · Spring AI · AWS Bedrock · PGVector · Kafka
-
-[![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics)
-[![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics)
-[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://github.com/Kv-Logics)
-
-</td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚀 [Herald](https://github.com/Kv-Logics/Herald)
+### [Hypersphere Engine](https://github.com/Kv-Logics/Hypersphere)
+
+Production biometric face attendance & real-time campus geofencing platform for Amrita Vishwa Vidyapeetham. Features **ArcFace 512-D ONNX embeddings**, **PGVector** similarity search, **MiniFASNetV2** anti-spoofing, and **Ray-Casting PiP geofencing**.
+
+**Stack:** Python · FastAPI · PyTorch/ONNX · PGVector · Next.js 15 · Leaflet.js
+
+[![PyTorch](https://img.shields.io/badge/PyTorch_ONNX-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
+[![PGVector](https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
+
+</td>
+<td width="50%">
+
+### [Herald](https://github.com/Kv-Logics/Herald)
 
 Enterprise-grade multi-channel notification engine powering Klarixa AI's GxP compliance SaaS platform. Features 4-tier Redis priority queues, sliding-window rate limiting, circuit breaker fault tolerance, and Jinja2 templating.
 
@@ -231,17 +216,32 @@ Enterprise-grade multi-channel notification engine powering Klarixa AI's GxP com
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/Kv-Logics/Herald)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 🎓 [Campus Nexus](https://github.com/Kv-Logics/Campus-Nexus)
+### [Spring AI Enterprise Engine](https://github.com/Kv-Logics)
 
-High-throughput concurrent file distribution engine & zero-VPN campus intranet mesh relay gateway. Features parallel 1-to-10 FTP/FTPS fan-out delivery with SHA-256 integrity, WebSocket reverse tunneling, and AWS EC2 cost controller.
+Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVector. Orchestrates LLMs (GPT-4o, Claude, Llama), high-throughput RAG search, and real-time Kafka event streaming.
 
-**Stack:** Java 21 · Spring Boot 3 · MongoDB · WebSocket · Docker · AWS EC2
+**Stack:** Java 21 · Spring Boot 3 · Spring AI · AWS Bedrock · PGVector · Kafka
 
-[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
-[![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Kv-Logics/Campus-Nexus)
+[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics)
+[![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://github.com/Kv-Logics)
+
+</td>
+<td width="50%">
+
+### [LeetCode Progress Tracker](https://github.com/Kv-Logics/leetcode-tracker)
+
+Production-grade technical interview companion. Automates problem tracking, auto-fetches problem titles & difficulties by ID, visualizes company-wise progress (Meta, Google, Amazon), and manages solution notes.
+
+**Stack:** Next.js 15 · TypeScript · Supabase · PostgreSQL · Tailwind CSS
+
+[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/Kv-Logics/leetcode-tracker)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Kv-Logics/leetcode-tracker)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/Kv-Logics/leetcode-tracker)
 
 </td>
 </tr>
@@ -254,10 +254,26 @@ High-throughput concurrent file distribution engine & zero-VPN campus intranet m
 ```
 [2026] ✦  DevOps Lead @ NIT Trichy        — RHEL server infrastructure & deployment
 [2025] ✦  AI Engineer Intern @ Infosys    — Enterprise AI in production
-[2025] ✦  150+ DSA Problems on LeetCode   — Profile: Kvasan · Active competitor
-[2024] ✦  IoT + AI Integrated Systems     — Real-world applied AI
+[2025] ✦  Built LeetCode Progress Tracker — Next.js 15 + Supabase interview prep engine
+[2025] ✦  150+ DSA Problems Solved        — Active competitor on LeetCode (@Kvasan)
+[2024] ✦  IoT + AI Integrated Systems     — Real-world applied AI & IoT
 [2024] ✦  Codefest Competitor             — Competitive programming circuit
 ```
+
+---
+
+## 🧩 `> leetcode --tracker`
+
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kvasan/)
+[![LeetCode Tracker Repo](https://img.shields.io/badge/Custom_Tracker_Repo-leetcode--tracker-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Kv-Logics/leetcode-tracker)
+
+<br/>
+
+> 💡 **Custom Interview Prep Engine**: Built [**LeetCode Progress Tracker**](https://github.com/Kv-Logics/leetcode-tracker) to eliminate data entry friction during interview preparation. Features auto-fetching problem metadata by ID, company-wise DSA sheet tracking (Google, Meta, Amazon), and Supabase persistence.
+
+</div>
 
 ---
 
