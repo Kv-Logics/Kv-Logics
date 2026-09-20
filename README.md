@@ -72,100 +72,22 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 
 ## `> tech_stack --list`
 
-<div align="center">
+### ⚙️ Backend & Distributed Systems
+[![Backend Stack](https://skillicons.dev/icons?i=java,go,spring,kafka,nodejs,express&theme=dark)](https://skillicons.dev)
 
-[![Tech Stack Icons](https://skillicons.dev/icons?i=java,go,py,cpp,rust,spring,kafka,nodejs,express,pytorch,tensorflow,opencv,postgres,mongodb,dynamodb,sqlite,docker,aws,kubernetes,linux,git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
+### 🧠 Enterprise AI, LLMs & Vector Search
+[![AI Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,py&theme=dark)](https://skillicons.dev)  
+`Spring AI` · `RAG Pipelines` · `Agentic AI` · `Amazon Bedrock` · `PGVector` · `LangChain` · `FAISS`
 
-</div>
+### ☁️ AWS & Cloud-Native Infrastructure
+[![AWS & Cloud](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash&theme=dark)](https://skillicons.dev)  
+`Amazon Bedrock` · `Amazon Kendra` · `Amazon Transcribe` · `Amazon Polly` · `Amazon Translate` · `Lambda` · `Step Functions` · `Fargate` · `API Gateway` · `S3` · `DynamoDB` · `RDS` · `CloudFront` · `Route 53` · `Cognito` · `IAM` · `KMS` · `WAF` · `CloudWatch` · `Azure`
 
-<br/>
+### 🗄️ Databases & Storage
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,sqlite&theme=dark)](https://skillicons.dev)  
+`PostgreSQL` · `MongoDB / Atlas` · `DynamoDB` · `SQLite` · `H2` · `SQL` · `PGVector`
 
-<details open>
-<summary><b>⚙️ Backend & Distributed Systems</b></summary>
-<br/>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🧠 Enterprise AI, LLMs & Vector Search</b></summary>
-<br/>
-
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ AWS & Cloud-Native Stack</b></summary>
-<br/>
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Kendra](https://img.shields.io/badge/Amazon_Kendra-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Transcribe](https://img.shields.io/badge/Amazon_Transcribe-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Polly](https://img.shields.io/badge/Amazon_Polly-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Translate](https://img.shields.io/badge/Amazon_Translate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route_53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/AWS_KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Storage</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔐 Security & Auth</b></summary>
-<br/>
-
+### 🔐 Security & Auth
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -174,22 +96,15 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 ![AWS WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-4A90E2?style=for-the-badge)
 
-</details>
+### 💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=java,go,py,cpp,rust&theme=dark)](https://skillicons.dev)
 
-<details>
-<summary><b>🌐 Frontend & Core CS Fundamentals</b></summary>
-<br/>
+### 🌐 Frontend (Supporting Stack)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,tailwind&theme=dark)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-- **Data Structures & Algorithms** — 150+ problems on LeetCode ([Kvasan](https://leetcode.com/u/Kvasan)) · Active competitor
+### 🧮 Core CS Fundamentals
+- **Data Structures & Algorithms** — 150+ problems solved on LeetCode ([Kvasan](https://leetcode.com/u/Kvasan)) · Active competitor
 - **Distributed Systems & System Design** — CAP Theorem, Microservices Patterns, Event-Driven Architecture, CQRS
-
-</details>
 
 ---
 
