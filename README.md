@@ -19,6 +19,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kvasan)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthivasan22work@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kvasan&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kvasan)
+</div>
+
+<br/>
+
+<div align="center">
+
+![Aesthetic Pixel Banner](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
 
 </div>
 
