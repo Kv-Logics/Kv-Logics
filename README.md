@@ -350,15 +350,15 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 <br/>
 
 [![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-161b22?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://github.com/Kv-Logics)
-[![Enterprise AI Engineering](https://img.shields.io/badge/Enterprise_AI_Engineering-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/Kv-Logics)
+[![Enterprise AI Engineering](https://img.shields.io/badge/Enterprise_AI_Engineering-161b22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5OTAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE4Ljc1IDE2Ljc0Yy0yLjQ3IDEuODMtNi4wNyAyLjc4LTkuMTUgMi43OC00LjM0IDAtOC4yNS0xLjU4LTExLjIzLTQuMjItLjIzLS4yLS4wNC0uNDkuMjMtLjMzIDMuMjMgMS44OSA3LjI3IDMuMDMgMTEuNCAzLjAzIDIuNzUgMCA1Ljg2LS42NCA4LjQ0LTEuOTUuMzktLjIuNzIuMjkuMzEuNjl6Ii8+PC9zdmc+)](https://github.com/Kv-Logics)
 [![Software Development Engineer](https://img.shields.io/badge/SDE-161b22?style=for-the-badge&logo=google&logoColor=4285F4)](https://github.com/Kv-Logics)
 [![Cloud Native Engineering](https://img.shields.io/badge/Cloud_Native_Engineering-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
 
 <br/>
 
-[![AWS](https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/Kv-Logics)
+[![AWS](https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5OTAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE4Ljc1IDE2Ljc0Yy0yLjQ3IDEuODMtNi4wNyAyLjc4LTkuMTUgMi43OC00LjM0IDAtOC4yNS0xLjU4LTExLjIzLTQuMjItLjIzLS4yLS4wNC0uNDkuMjMtLjMzIDMuMjMgMS44OSA3LjI3IDMuMDMgMTEuNCAzLjAzIDIuNzUgMCA5Ljg2LS42NCA4LjQ0LTEuOTUuMzktLjIuNzIuMjkuMzEuNjl6Ii8+PC9zdmc+)](https://github.com/Kv-Logics)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
-[![Azure](https://img.shields.io/badge/Azure-161b22?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)](https://github.com/Kv-Logics)
+[![Azure](https://img.shields.io/badge/Azure-161b22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA3OEQ0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUuNDgzIDIxLjNoMTMuMDM0bC01LjY0Mi04LjU0N0w1LjQ4MyAyMS4zek0xMy40MzUgMi43TDcuNjk3IDExLjQ0Mmw2Ljk4IDYuOTQ1TDIwLjUxNyAyLjdoLTcuMDgyeiIvPjwvc3ZnPg==)](https://github.com/Kv-Logics)
 [![GCP](https://img.shields.io/badge/GCP-161b22?style=for-the-badge&logo=googlecloud&logoColor=4285F4)](https://github.com/Kv-Logics)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F)](https://github.com/Kv-Logics)
 [![Go](https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=00ADD8)](https://github.com/Kv-Logics)
@@ -366,7 +366,7 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 <br/><br/>
 
-> *Building Enterprise AI & Distributed Systems — Open to SDE, Backend & AI Engineering roles.*
+> *Building Enterprise AI & Distributed Systems | Open to SDE, Backend & AI Engineering roles.*
 
 <br/>
 
