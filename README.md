@@ -117,6 +117,7 @@ fun_fact: "I'd rather spend hours building a system from first principles than m
 <img src="https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PGVector" />
 <img src="https://img.shields.io/badge/H2-0000BB?style=flat-square" alt="H2" />
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="RDS" />
+<img src="https://img.shields.io/badge/Aurora-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Aurora" />
 </td>
 </tr>
 <tr>
