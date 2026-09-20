@@ -93,22 +93,6 @@ open_to:
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/AI_/_ML-161b22?style=for-the-badge" alt="AI/ML" />
-<br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,py&theme=dark" alt="AI/ML" /></a>
-<br/><br/>
-<img src="https://img.shields.io/badge/AWS_Bedrock-7C3AED?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
-<img src="https://img.shields.io/badge/Amazon_Kendra-2563EB?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Kendra" />
-<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
-<img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
 <img src="https://img.shields.io/badge/Cloud-161b22?style=for-the-badge" alt="Cloud" />
 <br/><br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,nginx,linux,bash&theme=dark" alt="Cloud" /></a>
@@ -121,6 +105,23 @@ open_to:
 <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" alt="Route 53" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/AI_/_ML-161b22?style=for-the-badge" alt="AI/ML" />
+<br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,py&theme=dark" alt="AI/ML" /></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-7C3AED?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+<img src="https://img.shields.io/badge/Amazon_Kendra-2563EB?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Kendra" />
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
+<img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
 
 </td>
 <td align="center" width="50%">
