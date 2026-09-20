@@ -110,7 +110,7 @@ open_to:
 
 <img src="https://img.shields.io/badge/Cloud-161b22?style=for-the-badge" alt="Cloud" />
 <br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,linux,bash&theme=dark" alt="Cloud" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,nginx,linux,bash&theme=dark" alt="Cloud" /></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
 <img src="https://img.shields.io/badge/Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Fargate" />
@@ -118,6 +118,7 @@ open_to:
 <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" />
 <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudFront" />
 <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" alt="Route 53" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL" />
 
 </td>
@@ -330,7 +331,7 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 <div align="center">
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Kv-Logics/readme-test/output/pacman-contribution-graph.svg)
+![Pac-Man Contribution Graph](./assets/pacman-contribution-graph-dark.svg)
 
 <br/>
 
@@ -350,20 +351,20 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 <br/>
 
-[![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-161b22?style=flat-square&logo=spring&logoColor=6DB33F)](https://github.com/Kv-Logics)
-[![Enterprise AI Engineering](https://img.shields.io/badge/Enterprise_AI_Engineering-161b22?style=flat-square&logo=openai&logoColor=412991)](https://github.com/Kv-Logics)
-[![Software Development Engineer](https://img.shields.io/badge/SDE-161b22?style=flat-square&logo=google&logoColor=4285F4)](https://github.com/Kv-Logics)
-[![Cloud Native Engineering](https://img.shields.io/badge/Cloud_Native_Engineering-161b22?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
+[![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-161b22?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://github.com/Kv-Logics)
+[![Enterprise AI Engineering](https://img.shields.io/badge/Enterprise_AI_Engineering-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/Kv-Logics)
+[![Software Development Engineer](https://img.shields.io/badge/SDE-161b22?style=for-the-badge&logo=google&logoColor=4285F4)](https://github.com/Kv-Logics)
+[![Cloud Native Engineering](https://img.shields.io/badge/Cloud_Native_Engineering-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
 
 <br/>
 
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/Kv-Logics)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/Kv-Logics)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/Kv-Logics)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://github.com/Kv-Logics)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/Kv-Logics)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/Kv-Logics)
-[![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Kv-Logics)
+[![AWS](https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/Kv-Logics)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
+[![Azure](https://img.shields.io/badge/Azure-161b22?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)](https://github.com/Kv-Logics)
+[![GCP](https://img.shields.io/badge/GCP-161b22?style=for-the-badge&logo=googlecloud&logoColor=4285F4)](https://github.com/Kv-Logics)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F)](https://github.com/Kv-Logics)
+[![Go](https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=00ADD8)](https://github.com/Kv-Logics)
+[![Microservices](https://img.shields.io/badge/Microservices-161b22?style=for-the-badge&logo=docker&logoColor=2496ED)](https://github.com/Kv-Logics)
 
 <br/><br/>
 
