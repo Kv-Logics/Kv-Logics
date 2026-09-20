@@ -368,7 +368,7 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 <br/><br/>
 
-> 💬 *Building at the intersection of Enterprise AI & High-Throughput Distributed Systems — open to SDE, Backend & AI Engineering roles.*
+> *Building Enterprise AI & Distributed Systems — Open to SDE, Backend & AI Engineering roles.*
 
 <br/>
 
