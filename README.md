@@ -78,7 +78,7 @@ open_to:
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,go,kafka,nodejs,express&theme=dark" alt="Backend" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/AI_/_Machine_Learning-161b22?style=for-the-badge" alt="AI/ML" />
 <br/>
@@ -90,7 +90,7 @@ open_to:
 <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock" />
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Cloud_&_DevOps-161b22?style=for-the-badge" alt="Cloud" />
 <br/>
@@ -104,7 +104,7 @@ open_to:
 <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" alt="Route 53" />
 <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Databases-161b22?style=for-the-badge" alt="Databases" />
 <br/>
@@ -115,7 +115,7 @@ open_to:
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="RDS" />
 <img src="https://img.shields.io/badge/Aurora-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Aurora" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Security_&_Auth-161b22?style=for-the-badge" alt="Security" />
 <br/>
@@ -127,19 +127,19 @@ open_to:
 <img src="https://img.shields.io/badge/WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="WAF" />
 <img src="https://img.shields.io/badge/RBAC-4A90E2?style=flat-square" alt="RBAC" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Languages-161b22?style=for-the-badge" alt="Languages" />
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,go,py,cpp,rust&theme=dark" alt="Languages" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Frontend-161b22?style=for-the-badge" alt="Frontend" />
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind&theme=dark" alt="Frontend" /></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/CS_Fundamentals-161b22?style=for-the-badge" alt="CS Core" />
 <br/>
@@ -148,7 +148,7 @@ open_to:
 <img src="https://img.shields.io/badge/Distributed_Systems-CAP-FF6B6B?style=flat-square" alt="Distributed" />
 <img src="https://img.shields.io/badge/Event_Driven-Architecture-FFA116?style=flat-square" alt="EDA" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/IDE_&_Tools_I_Use-161b22?style=for-the-badge" alt="Tools" />
 <br/>
@@ -229,23 +229,6 @@ open_to:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvasan&theme=dark&background=0D1117&fire=00D4AA&ring=00D4AA&currStreakLabel=00D4AA&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-## `$ git log --oneline --graph`
-
-```
-* 🚀 feat: enterprise AI systems with Spring AI + Amazon Bedrock
-* 🧠 feat: RAG pipelines with PGVector + Amazon Kendra
-* 🤖 feat: agentic AI workflows — tool-use, memory, multi-step
-* ⚡ feat: event-driven microservices with Apache Kafka & Go
-* ☁️ feat: serverless pipelines — Lambda + Step Functions + API Gateway
-* 🔐 feat: OAuth2 + JWT + Cognito + IAM + WAF secured APIs
-* 🗄️ feat: multi-db architecture — Postgres, MongoDB, DynamoDB, S3
-* 🏆 chore: AI Engineer Intern @ Infosys
-* 🎓 chore: DevOps Lead @ NIT Trichy (RHEL Server Infra)
-* 🌱 init: Computer & Communication Engineering @ Amrita Vishwa Vidyapeetham
-```
 
 ---
 
