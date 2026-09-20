@@ -26,39 +26,37 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
 ## `$ whoami`
 
 ```yaml
-name:       Keerthi Vasan
-role:       Backend Engineer · Enterprise AI Architect · Cloud-Native SDE
-education:  Computer & Communication Engineering @ Amrita Vishwa Vidyapeetham
-location:   Tamil Nadu, India
+name:      Keerthi Vasan
+role:      Backend · AI · Cloud-Native
+education: CCE @ Amrita Vishwa Vidyapeetham
+location:  Tamil Nadu, India
 
-currently_building:
-  - Enterprise AI systems with Spring AI + RAG + Amazon Bedrock
-  - Microservices at scale on Kubernetes + AWS
-  - Agentic AI pipelines for real-world automation
+building:
+  - Spring AI + RAG + Bedrock
+  - Microservices on K8s + AWS
+  - Agentic AI pipelines
 
 interests:
-  - Backend Engineering (Spring Boot · Go · Microservices · Kafka)
-  - Enterprise AI Integration (Spring AI · LLMs · RAG · Bedrock)
-  - Cloud-Native Systems (K8s · AWS · Azure)
+  - Spring Boot · Go · Kafka
+  - LLMs · RAG · Bedrock
+  - K8s · AWS · Azure · GCP
   - Competitive Programming
 
 open_to:
-  - SDE Roles (Backend / Full-Stack)
+  - Backend / Full-Stack SDE
   - Enterprise AI Engineering
-  - AI + Backend Integration Positions
-  - Cloud Engineering (AWS · Cloud-Native · DevOps-adjacent)
-
+  - Cloud & DevOps Engineering
 ```
 
 </td>
-<td width="45%" align="center" valign="center">
+<td width="40%" align="center" valign="center">
 
-<img src="pixel_banner_rotated.gif" width="400" alt="Aesthetic Pixel Banner" />
+<img src="pixel_banner_rotated.gif" width="300" alt="Aesthetic Pixel Banner" />
 
 </td>
 </tr>
