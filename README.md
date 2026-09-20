@@ -284,17 +284,17 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 ---
 
-## `$ cat achievements.log`
+## 📜 `> achievements --list`
 
-```
-[2026] ✦  DevOps Lead @ NIT Trichy        — RHEL server infrastructure & deployment
-[2026] ✦  Google Certified GKE Architect  — Kubernetes workloads & cluster architecture
-[2025] ✦  AI Engineer Intern @ Infosys    — Enterprise AI in production
-[2025] ✦  Built LeetCode Progress Tracker — Next.js 15 + Supabase interview prep engine
-[2025] ✦  150+ DSA Problems Solved        — Active competitor on LeetCode (@Kvasan)
-[2024] ✦  IoT + AI Integrated Systems     — Real-world applied AI & IoT
-[2024] ✦  Codefest Competitor             — Competitive programming circuit
-```
+| Year | Role / Milestone | Domain & Technical Impact |
+| :---: | :--- | :--- |
+| `2026` | ✦ **DevOps Lead @ NIT Trichy** | RHEL 9 server infrastructure, systemd services & deployment |
+| `2026` | ✦ **Google Certified GKE Architect** | Enterprise Kubernetes workloads, Helm & cluster architecture |
+| `2025` | ✦ **AI Engineer Intern @ Infosys** | Production GenAI systems, RAG search & LLM orchestration |
+| `2025` | ✦ **Built LeetCode Progress Tracker** | Next.js 15 + Supabase full-stack interview prep engine |
+| `2025` | ✦ **150+ DSA Problems Solved** | Active competitive problem solver on LeetCode (`@Kvasan`) |
+| `2024` | ✦ **IoT + AI Integrated Systems** | Applied computer vision, sensor telemetry & edge AI |
+| `2024` | ✦ **Codefest Competitor** | Competitive programming circuit & algorithm design |
 
 ---
 
