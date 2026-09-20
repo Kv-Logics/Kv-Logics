@@ -285,6 +285,7 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 | Year | Role / Milestone | Domain & Technical Impact |
 | :---: | :--- | :--- |
+| `2026` | ✦ **AI Engineer Intern @ Sparks AI** | Multi-tenant CommandOS platform, PostgreSQL RLS, OAuth2 PKCE & 429 Vitest tests |
 | `2026` | ✦ **DevOps Lead @ NIT Trichy** | RHEL 9 server infrastructure, systemd services & deployment |
 | `2026` | ✦ **Google Certified GKE Architect** | Enterprise Kubernetes workloads, Helm & cluster architecture |
 | `2025` | ✦ **AI Engineer Intern @ Infosys** | Production GenAI systems, RAG search & LLM orchestration |
