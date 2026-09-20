@@ -76,84 +76,85 @@ open_to:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140"><b>⚙️ Backend</b></td>
-<td align="center">
+<img src="https://img.shields.io/badge/Backend-161b22?style=for-the-badge" alt="Backend" />
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,go,kafka,nodejs,express&theme=dark" alt="Backend" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="140"><b>🧠 AI / ML</b></td>
-<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI_/_Machine_Learning-161b22?style=for-the-badge" alt="AI/ML" />
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,py&theme=dark" alt="AI/ML" /></a>
 <br/>
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
-<img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square" alt="RAG" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock" />
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
-</td>
-</tr>
-<tr>
-<td align="center" width="140"><b>☁️ Cloud</b></td>
-<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloud_&_DevOps-161b22?style=for-the-badge" alt="Cloud" />
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,linux,bash&theme=dark" alt="Cloud" /></a>
 <br/>
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
 <img src="https://img.shields.io/badge/Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Fargate" />
-<img src="https://img.shields.io/badge/API_GW-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
+<img src="https://img.shields.io/badge/API_GW-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API GW" />
 <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" />
 <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudFront" />
 <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" alt="Route 53" />
 <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHEL" />
-</td>
-</tr>
-<tr>
-<td align="center" width="140"><b>🗄️ Databases</b></td>
-<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Databases-161b22?style=for-the-badge" alt="Databases" />
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,sqlite&theme=dark" alt="Databases" /></a>
 <br/>
 <img src="https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PGVector" />
 <img src="https://img.shields.io/badge/H2-0000BB?style=flat-square" alt="H2" />
 <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="RDS" />
 <img src="https://img.shields.io/badge/Aurora-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Aurora" />
-</td>
-</tr>
-<tr>
-<td align="center" width="140"><b>🔐 Security</b></td>
-<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Security_&_Auth-161b22?style=for-the-badge" alt="Security" />
+<br/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0" />
+<img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth" />
 <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="Cognito" />
 <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="IAM" />
 <img src="https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="KMS" />
 <img src="https://img.shields.io/badge/WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="WAF" />
 <img src="https://img.shields.io/badge/RBAC-4A90E2?style=flat-square" alt="RBAC" />
-</td>
-</tr>
-<tr>
-<td align="center" width="140"><b>💻 Languages</b></td>
-<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Languages-161b22?style=for-the-badge" alt="Languages" />
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,go,py,cpp,rust&theme=dark" alt="Languages" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="140"><b>🌐 Frontend</b></td>
-<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-161b22?style=for-the-badge" alt="Frontend" />
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind&theme=dark" alt="Frontend" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="140"><b>🧮 CS Core</b></td>
-<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/CS_Fundamentals-161b22?style=for-the-badge" alt="CS Core" />
+<br/>
 <img src="https://img.shields.io/badge/DSA-150+_Problems-00D4AA?style=flat-square" alt="DSA" />
 <img src="https://img.shields.io/badge/System_Design-CQRS-8B5CF6?style=flat-square" alt="System Design" />
 <img src="https://img.shields.io/badge/Distributed_Systems-CAP-FF6B6B?style=flat-square" alt="Distributed" />
 <img src="https://img.shields.io/badge/Event_Driven-Architecture-FFA116?style=flat-square" alt="EDA" />
-</td>
-</tr>
-</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/IDE_&_Tools_I_Use-161b22?style=for-the-badge" alt="Tools" />
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman,notion,obsidian,vim&theme=dark" alt="Tools" /></a>
 
 </div>
 
