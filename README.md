@@ -369,7 +369,7 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 </a>
 &nbsp;&nbsp;
 <a href="mailto:keerthivasan22work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-keerthivasan22work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/Kvasan/" target="_blank">
