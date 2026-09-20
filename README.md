@@ -24,13 +24,9 @@
 
 <br/>
 
-<div align="center">
-
-<img src="pixel_banner_rotated.gif" width="550" alt="Aesthetic Pixel Banner" />
-
-</div>
-
----
+<table>
+<tr>
+<td width="55%">
 
 ## `$ whoami`
 
@@ -58,6 +54,15 @@ open_to:
   - Cloud Engineering (AWS · Cloud-Native · DevOps-adjacent)
 
 ```
+
+</td>
+<td width="45%" align="center" valign="center">
+
+<img src="pixel_banner_rotated.gif" width="400" alt="Aesthetic Pixel Banner" />
+
+</td>
+</tr>
+</table>
 
 ---
 
