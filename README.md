@@ -182,8 +182,8 @@ fun_fact: "First principles > copy-paste. Always."
 ## `$ cat achievements.log`
 
 ```
+[2026] ✦  DevOps Lead @ NIT Trichy           — RHEL server infrastructure & deployment
 [2025] ✦  AI Engineer Intern @ Infosys         — Enterprise AI in production
-[2025] ✦  DevOps Lead @ NIT Trichy           — RHEL server infrastructure & deployment
 [2025] ✦  150+ DSA Problems on LeetCode         — Profile: Kvasan · Active competitor
 [2024] ✦  IoT + AI Integrated Systems           — Real-world applied AI
 [2024] ✦  Codefest Competitor                   — Competitive programming circuit
