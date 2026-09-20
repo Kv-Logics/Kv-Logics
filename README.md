@@ -97,10 +97,11 @@ open_to:
 <br/><br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,py&theme=dark" alt="AI/ML" /></a>
 <br/><br/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+<img src="https://img.shields.io/badge/Amazon_Kendra-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Kendra" />
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
 <img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square" alt="RAG" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock" />
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
 
 </td>
@@ -112,10 +113,10 @@ open_to:
 <br/><br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,nginx,linux,bash&theme=dark" alt="Cloud" /></a>
 <br/><br/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
-<img src="https://img.shields.io/badge/Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Fargate" />
-<img src="https://img.shields.io/badge/API_GW-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API GW" />
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" />
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+<img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Fargate" />
+<img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
+<img src="https://img.shields.io/badge/Amazon_S3_Bucket-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3 Bucket" />
 <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudFront" />
 <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" alt="Route 53" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
@@ -129,9 +130,10 @@ open_to:
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,sqlite&theme=dark" alt="Databases" /></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PGVector" />
+<img src="https://img.shields.io/badge/Amazon_Aurora-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Aurora" />
+<img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
 <img src="https://img.shields.io/badge/H2-0000BB?style=flat-square" alt="H2" />
-<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="RDS" />
-<img src="https://img.shields.io/badge/Aurora-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Aurora" />
 
 </td>
 </tr>
