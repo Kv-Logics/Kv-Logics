@@ -32,25 +32,29 @@
 
 ```yaml
 name:      Keerthi Vasan
-role:      Backend · AI · Cloud-Native
+role:      Backend Architect · Enterprise AI · Cloud-Native SDE
 education: CCE @ Amrita Vishwa Vidyapeetham
 location:  Tamil Nadu, India
 
-building:
-  - Spring AI + RAG + Bedrock
-  - Microservices on K8s + AWS
-  - Agentic AI pipelines
+engineering_focus:
+  - High-Throughput Microservices (Spring Boot 3, Go, Kafka)
+  - Agentic AI Systems & Smart RAG (Spring AI, Bedrock, PGVector)
+  - Cloud Infrastructure & Kubernetes (GKE, AWS EC2/Lambda, Docker)
 
-interests:
-  - Spring Boot · Go · Kafka
-  - LLMs · RAG · Bedrock
-  - K8s · AWS · Azure · GCP
-  - Competitive Programming
+problem_solving:
+  - Advanced DSA & Logical Reasoning (150+ Solved on LeetCode @Kvasan)
+  - Competitive Programming & Algorithmic Circuit
+  - Advanced System Design (CQRS, Event-Driven, CAP & Fault Tolerance)
+
+building_impact:
+  - Custom LeetCode Progress Tracker & Graph RAG Engines
+  - Zero-VPN Campus Intranet Mesh Relay & High-Throughput Gateways
+  - Enterprise GxP Multi-Channel Notification Priority Pipelines
 
 open_to:
-  - Backend / Full-Stack SDE
-  - Enterprise AI Engineering
-  - Cloud & DevOps Engineering
+  - High-Impact Backend & SDE Engineering Roles
+  - Enterprise AI & Cloud Native Systems Architecture
+  - Solving Complex, Scalable Real-World Engineering Problems
 ```
 
 </td>
