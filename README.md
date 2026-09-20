@@ -253,6 +253,7 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 ```
 [2026] ✦  DevOps Lead @ NIT Trichy        — RHEL server infrastructure & deployment
+[2026] ✦  Google Certified GKE Architect   — Kubernetes workloads & cluster architecture
 [2025] ✦  AI Engineer Intern @ Infosys    — Enterprise AI in production
 [2025] ✦  Built LeetCode Progress Tracker — Next.js 15 + Supabase interview prep engine
 [2025] ✦  150+ DSA Problems Solved        — Active competitor on LeetCode (@Kvasan)
@@ -283,7 +284,7 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 [ ] Advanced Spring Boot + Go Microservices at scale
 [ ] Enterprise AI Architecture (Spring AI + Bedrock + production LLM systems)
 [ ] Advanced RAG — multi-modal, agentic retrieval pipelines
-[ ] Cloud-native mastery (Kubernetes + AWS + RHEL — production certified)
+[✓] Cloud-native & GKE Architecture (Google Certified GKE Architect · K8s + AWS + RHEL)
 [ ] Top-tier SDE role — Backend / Enterprise AI Engineering
 [✓] Keep building. Keep shipping. Keep solving.
 ```
