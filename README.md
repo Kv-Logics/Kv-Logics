@@ -76,9 +76,9 @@ open_to:
 
 ---
 
-<div align="center">
-
 ## `> tech_stack --list`
+
+<div align="center">
 
 <table>
 <tr>
