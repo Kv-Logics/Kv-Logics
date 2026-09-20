@@ -307,7 +307,7 @@ Production-grade technical interview companion. Automates problem tracking, auto
 
 <div align="center">
 
-![Snake Contribution Grid](https://raw.githubusercontent.com/Kv-Logics/readme-test/output/github-contribution-grid-snake-dark.svg)
+![Snake Contribution Grid](./assets/github-contribution-grid-snake-dark.svg)
 
 <br/>
 
@@ -319,23 +319,34 @@ Production-grade technical interview companion. Automates problem tracking, auto
 
 <div align="center">
 
-### 🤝 Open to Opportunities
-
-```
-Backend Engineering  ·  Enterprise AI Engineering  ·  SDE  ·  Cloud Engineering
-Spring Boot  ·  Spring AI  ·  AWS Bedrock  ·  Go  ·  Microservices  ·  Cloud-Native
-```
-
-*If you're building something ambitious at the intersection of AI and backend systems — let's talk.*
+## `> contact --connect`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/keerthi-vasan-a-1480862aa/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:keerthivasan22work@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=161b22)](https://leetcode.com/u/Kvasan)
+[![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-161b22?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://github.com/Kv-Logics)
+[![Enterprise AI](https://img.shields.io/badge/Enterprise_AI_Systems-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/Kv-Logics)
+[![Cloud Native](https://img.shields.io/badge/Cloud_Native-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/Kv-Logics)
+
+<br/><br/>
+
+> 💬 *Building at the intersection of Enterprise AI & High-Throughput Distributed Systems — open to SDE, Backend & AI Engineering roles.*
 
 <br/>
 
-⭐ *Explore the repos. Star what you find useful. Let's build together.*
+<a href="https://www.linkedin.com/in/keerthi-vasan-a-1480862aa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Keerthi_Vasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:keerthivasan22work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-keerthivasan22work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Kvasan/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<br/><br/>
+
+⭐ *Explore the repositories above. Star what you find useful & let's build together.*
 
 </div>
