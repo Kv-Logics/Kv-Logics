@@ -308,18 +308,6 @@ Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVecto
 
 </div>
 
----
-
-## `$ cat roadmap/2026.txt`
-
-```
-[ ] Advanced Spring Boot + Go Microservices at scale
-[ ] Enterprise AI Architecture (Spring AI + Bedrock + production LLM systems)
-[ ] Advanced RAG — multi-modal, agentic retrieval pipelines
-[✓] Cloud-native & GKE Architecture (Google Certified GKE Architect · K8s + AWS + RHEL)
-[ ] Top-tier SDE role — Backend / Enterprise AI Engineering
-[✓] Keep building. Keep shipping. Keep solving.
-```
 
 ---
 
