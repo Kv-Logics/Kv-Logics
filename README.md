@@ -177,15 +177,15 @@ Voice-first agentic civic automation for rural India via Amazon Connect IVR & We
 </td>
 <td width="50%">
 
-### 🚀 [Herald](https://github.com/Kv-Logics/Herald)
+### 🧠 [Hypersphere Engine](https://github.com/Kv-Logics/Hypersphere)
 
-Enterprise-grade multi-channel notification engine powering Klarixa AI's GxP compliance SaaS platform. Features 4-tier Redis priority queues, sliding-window rate limiting, circuit breaker fault tolerance, and Jinja2 templating.
+Production biometric face attendance & real-time campus geofencing platform for Amrita Vishwa Vidyapeetham. Features **ArcFace 512-D ONNX embeddings**, **PGVector** similarity search, **MiniFASNetV2** anti-spoofing, and **Ray-Casting PiP geofencing**.
 
-**Stack:** FastAPI · Python 3.11 · PostgreSQL · Redis · Docker · AWS EC2
+**Stack:** Python · FastAPI · PyTorch/ONNX · PGVector · Next.js 15 · Leaflet.js
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Kv-Logics/Herald)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Kv-Logics/Herald)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/Kv-Logics/Herald)
+[![PyTorch](https://img.shields.io/badge/PyTorch_ONNX-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
+[![PGVector](https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Kv-Logics/Hypersphere)
 
 </td>
 </tr>
@@ -201,6 +201,34 @@ MCP-powered agentic AI platform for real-time manufacturing root-cause analysis.
 [![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-0A66FF?style=flat-square&logo=react&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
 [![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Kv-Logics/ZenOps)
+
+</td>
+<td width="50%">
+
+### ⚡ Spring AI Enterprise Engine
+
+Production-grade Spring Boot microservices integrated with AWS Bedrock & PGVector. Orchestrates LLMs (GPT-4o, Claude, Llama), high-throughput RAG search, and real-time Kafka event streaming.
+
+**Stack:** Java 21 · Spring Boot 3 · Spring AI · AWS Bedrock · PGVector · Kafka
+
+[![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kv-Logics)
+[![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/Kv-Logics)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://github.com/Kv-Logics)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 [Herald](https://github.com/Kv-Logics/Herald)
+
+Enterprise-grade multi-channel notification engine powering Klarixa AI's GxP compliance SaaS platform. Features 4-tier Redis priority queues, sliding-window rate limiting, circuit breaker fault tolerance, and Jinja2 templating.
+
+**Stack:** FastAPI · Python 3.11 · PostgreSQL · Redis · Docker · AWS EC2
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Kv-Logics/Herald)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Kv-Logics/Herald)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/Kv-Logics/Herald)
 
 </td>
 <td width="50%">
