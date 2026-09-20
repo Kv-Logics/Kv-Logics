@@ -158,25 +158,66 @@ open_to:
 
 ---
 
-## `$ cat projects/highlights.md`
+## `> projects --featured`
 
-### 🤖 Enterprise AI with Spring AI & AWS Bedrock
-> *Production-grade AI integrated into Spring Boot microservices*
+<table>
+<tr>
+<td width="50%">
 
-- Built enterprise applications powered by **Spring AI** with LLM orchestration (GPT-4o, Claude, Llama, Titan)
-- Implemented **RAG pipelines** with PGVector + **Amazon Kendra** for intelligent document retrieval
-- Designed **Agentic AI workflows** with tool-use, memory, and multi-step reasoning
-- Integrated **Amazon Bedrock**, **Transcribe**, **Polly**, **Translate** for multimodal AI features
-- Built voice + text interaction pipelines using **Amazon Connect** + **Pinpoint** + **SNS**
+### 🤖 Enterprise AI Platform
+
+Production-grade AI integrated into Spring Boot microservices. LLM orchestration with GPT-4o, Claude, Llama & Titan. RAG pipelines with PGVector + Amazon Kendra for intelligent document retrieval.
+
+**Stack:** Spring Boot · Spring AI · AWS Bedrock · PGVector · Kendra
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://skillicons.dev)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://skillicons.dev)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://skillicons.dev)
+
+</td>
+<td width="50%">
+
+### 🧠 Agentic AI Workflows
+
+Designed agentic AI pipelines with tool-use, memory, and multi-step reasoning. Voice + text interaction using Amazon Connect, Pinpoint & SNS. Multimodal AI with Transcribe, Polly & Translate.
+
+**Stack:** Spring AI · LangChain · Bedrock · RAG · Agents
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://skillicons.dev)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://skillicons.dev)
+[![Spring](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🏗️ Scalable Backend Systems
-> *Cloud-native, production-ready backend architecture*
 
-- Microservices architecture with **Spring Boot** + **Kafka** + **Go** deployed on **Kubernetes** / **Fargate**
-- Serverless pipelines with **AWS Lambda** + **Step Functions** + **API Gateway**
-- Secured APIs with **OAuth 2.0**, **JWT**, **AWS Cognito**, **IAM**, **KMS**, **WAF**, and fine-grained **RBAC**
-- Data layer across **PostgreSQL**, **MongoDB Atlas**, **DynamoDB**, **S3**, with **PGVector** for embeddings
-- Full observability with **CloudWatch** · CDN with **CloudFront** · DNS with **Route 53**
+Microservices with Spring Boot + Kafka + Go on Kubernetes & Fargate. Serverless pipelines via Lambda + Step Functions + API Gateway. Secured with OAuth2, JWT, Cognito, IAM & WAF.
+
+**Stack:** Spring Boot · Go · Kafka · K8s · AWS Lambda
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://skillicons.dev)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://skillicons.dev)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://skillicons.dev)
+
+</td>
+<td width="50%">
+
+### 🗄️ Multi-DB Architecture
+
+Data layer across PostgreSQL, MongoDB Atlas, DynamoDB & S3 with PGVector for embeddings. Full observability with CloudWatch, CDN with CloudFront & DNS with Route 53.
+
+**Stack:** PostgreSQL · MongoDB · DynamoDB · S3 · PGVector
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://skillicons.dev)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://skillicons.dev)
+[![AWS](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 ---
 
