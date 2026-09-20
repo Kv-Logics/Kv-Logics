@@ -54,8 +54,14 @@ open_to:
 ```
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="Developer Animation" />
+
+<br/><br/>
+
 <img src="pixel_banner_rotated.gif" width="100%" alt="Aesthetic Pixel Banner" />
+
 </td>
 </tr>
 </table>
