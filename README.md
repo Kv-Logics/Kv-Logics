@@ -56,7 +56,7 @@ open_to:
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Kv-Logics/readme-test/main/custom_banner.gif" width="100%" alt="Developer Animation Banner" />
+<img src="./custom_banner.gif" width="100%" alt="Developer Animation Banner" />
 
 </td>
 </tr>
