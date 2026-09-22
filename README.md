@@ -50,7 +50,9 @@ open_to:
 <br/>
 
 <div align="center">
-  <img src="./custom_banner.gif" width="100%" alt="Developer Animation Banner" />
+
+![Developer Animation Banner](custom_banner.gif)
+
 </div>
 
 ---
