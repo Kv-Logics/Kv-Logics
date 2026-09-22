@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/keerthi-vasan-a-1480862aa/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Kvasan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=161b22)](https://leetcode.com/u/Kvasan)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:keerthivasan22work@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Kvasan&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kvasan)
+[![Profile Views](https://komarev.com/ghpvc/?username=Kv-Logics&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Kv-Logics)
 
 </div>
 
