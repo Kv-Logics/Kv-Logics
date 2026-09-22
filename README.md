@@ -38,10 +38,9 @@ engineering_focus:
   - Cloud Infrastructure & Kubernetes (GKE, AWS EC2/Lambda, Docker)
 
 problem_solving:
-  - Advanced Data Structures & Algorithms (DSA)
-  - 150+ DSA Problems Solved on LeetCode (@Kvasan)
-  - Competitive Programming & Algorithmic Circuit
-  - Advanced System Design (CQRS, Event-Driven, CAP)
+  - System-First Problem Solving (Distributed Trade-offs, CAP & Resilience)
+  - Advanced Data Structures & Algorithms (150+ Solved on LeetCode @Kvasan)
+  - Competitive Programming & Algorithmic Reasoning
 
 open_to:
   - High-Impact Backend & SDE Engineering Roles
@@ -59,11 +58,10 @@ open_to:
 
 ## `$ cat philosophy.txt`
 
-> I sit at the intersection of **robust backend engineering** and **intelligent AI systems** —  
-> where distributed systems meet language models, and microservices meet agentic workflows.  
+> I sit at the intersection of **scalable backend systems** and **intelligent AI workflows**.  
 >  
-> ✦ **Enterprise Architecture**: Focused on high-scale cloud-native migrations, fault-tolerant database systems, and distributed design patterns.  
-> ✦ **Core Engineering Goal**: Architect resilient, high-throughput software that is **scalable**, **performant**, and **self-improving**.
+> ✦ **System-First Mindset**: I approach software engineering from a first-principles architectural perspective — evaluating distributed trade-offs (CAP theorem, latency vs. consistency), data partitioning, and fault-tolerant boundaries before writing code.  
+> ✦ **Engineering Philosophy**: Deconstruct complex real-world problems into modular, high-throughput microservices that are **resilient**, **scalable**, and **self-improving**.
 
 ---
 
