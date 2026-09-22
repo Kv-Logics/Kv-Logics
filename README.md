@@ -24,10 +24,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
 ## `$ whoami`
 
 ```yaml
@@ -53,14 +49,11 @@ open_to:
   - Solving Complex, Scalable Real-World Engineering Problems
 ```
 
-</td>
-<td width="35%" align="center" valign="middle">
+<br/>
 
-<img src="./custom_banner.gif" width="100%" alt="Developer Animation Banner" />
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./custom_banner.gif" width="100%" alt="Developer Animation Banner" />
+</div>
 
 ---
 
