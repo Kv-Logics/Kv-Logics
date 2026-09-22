@@ -62,8 +62,8 @@ open_to:
 > I sit at the intersection of **robust backend engineering** and **intelligent AI systems** —  
 > where distributed systems meet language models, and microservices meet agentic workflows.  
 >  
-> ✦ **Enterprise Architecture & Modern Trends**: Deeply interested in enterprise cloud migrations (e.g., Samsung migrating 1.1B users from Oracle to AWS Aurora), cloud-native design patterns, and emerging infrastructure paradigms.  
-> ✦ **Core Goal**: Engineer resilient, high-throughput software that is **smarter**, **faster**, and **self-improving**.
+> ✦ **Enterprise Architecture**: Focused on high-scale cloud-native migrations, fault-tolerant database systems, and distributed design patterns.  
+> ✦ **Core Engineering Goal**: Architect resilient, high-throughput software that is **scalable**, **performant**, and **self-improving**.
 
 ---
 
