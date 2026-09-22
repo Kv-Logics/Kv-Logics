@@ -54,13 +54,9 @@ open_to:
 ```
 
 </td>
-<td width="35%" align="center" valign="top">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="Developer Animation" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1286a048-0322-4cc7-ab99-97b764268e31.gif" width="100%" alt="Coding Animation" />
+<img src="https://raw.githubusercontent.com/Kv-Logics/readme-test/main/custom_banner.gif" width="100%" alt="Developer Animation Banner" />
 
 </td>
 </tr>
